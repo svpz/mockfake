@@ -1,0 +1,85 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "rating": 4.5,
+      "title": "Cappucino",
+      "subtitle": "with Chocolate",
+      "image": "https://www.ffactor.com/wp-content/uploads/2018/08/AdobeStock_202756131.jpeg",
+      "price": 4.53,
+      "categoryTitle": "Cappuccino"
+    },
+    {
+      "id": 2,
+      "rating": 3.8,
+      "title": "Cappuccino",
+      "subtitle": "with Icecream",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/cd/A_cappuccino.jpg",
+      "price": 29.99,
+      "categoryTitle": "Cappuccino"
+    },
+    {
+      "id": 3,
+      "rating": 4.2,
+      "title": "Product 3",
+      "subtitle": "Description for Product 3",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/cd/A_cappuccino.jpg",
+      "price": 14.99,
+      "categoryTitle": "Cappuccino"
+    },
+    {
+      "id": 4,
+      "rating": 5.0,
+      "title": "Machito",
+      "subtitle": "With Milk",
+      "image": "https://c1.staticflickr.com/1/41/84641136_53bfef3acf_b.jpg",
+      "price": 39.99,
+      "categoryTitle": "Machito"
+    },
+    {
+      "id": 5,
+      "rating": 4.1,
+      "title": "Product 5",
+      "subtitle": "Description for Product 5",
+      "image": "https://c1.staticflickr.com/1/41/84641136_53bfef3acf_b.jpg",
+      "price": 24.99,
+      "categoryTitle": "Machito"
+    },
+        {
+      "id": 6,
+      "rating": 3.8,
+      "title": "Milk",
+      "subtitle": "with Icecream",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/cd/A_cappuccino.jpg",
+      "price": 29.99,
+      "categoryTitle": "Milk"
+    },
+    {
+      "id": 7,
+      "rating": 4.2,
+      "title": "Product 3",
+      "subtitle": "Description for Product 3",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/cd/A_cappuccino.jpg",
+      "price": 14.99,
+      "categoryTitle": "Cappuccino"
+    },
+    {
+      "id": 8,
+      "rating": 5.0,
+      "title": "Machito",
+      "subtitle": "With Milk",
+      "image": "https://c1.staticflickr.com/1/41/84641136_53bfef3acf_b.jpg",
+      "price": 39.99,
+      "categoryTitle": "Machito"
+    },
+    {
+      "id": 9,
+      "rating": 4.1,
+      "title": "Milk Machito",
+      "subtitle": "Description for Product 5",
+      "image": "https://c1.staticflickr.com/1/41/84641136_53bfef3acf_b.jpg",
+      "price": 24.99,
+      "categoryTitle": "Machito"
+    }
+      ]
+}
