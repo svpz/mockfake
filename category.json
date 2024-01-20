@@ -1,0 +1,24 @@
+{
+  "data": [
+    {
+      "title": "Cappuccino",
+      "route": "cappuccino.json"
+    },
+    {
+      "title": "Latte",
+      "route": "latte.json"
+    },
+    {
+      "title": "Mocha",
+      "route": "mocha.json"
+    },
+    {
+      "title": "Iced Coffee",
+      "route": "iced_coffee.json"
+    },
+    {
+      "title": "Smoothies",
+      "route": "smoothies.json"
+    }
+  ]
+}
