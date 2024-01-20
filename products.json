@@ -21,11 +21,11 @@
     {
       "id": 3,
       "rating": 4.2,
-      "title": "Product 3",
+      "title": "Latte Simple",
       "subtitle": "Description for Product 3",
       "image": "https://upload.wikimedia.org/wikipedia/commons/c/cd/A_cappuccino.jpg",
       "price": 14.99,
-      "categoryTitle": "Cappuccino"
+      "categoryTitle": "Latte"
     },
     {
       "id": 4,
@@ -34,7 +34,7 @@
       "subtitle": "With Milk",
       "image": "https://c1.staticflickr.com/1/41/84641136_53bfef3acf_b.jpg",
       "price": 39.99,
-      "categoryTitle": "Machito"
+      "categoryTitle": "Mocha"
     },
     {
       "id": 5,
@@ -43,7 +43,7 @@
       "subtitle": "Description for Product 5",
       "image": "https://c1.staticflickr.com/1/41/84641136_53bfef3acf_b.jpg",
       "price": 24.99,
-      "categoryTitle": "Machito"
+      "categoryTitle": "Mocha"
     },
         {
       "id": 6,
@@ -52,7 +52,7 @@
       "subtitle": "with Icecream",
       "image": "https://upload.wikimedia.org/wikipedia/commons/c/cd/A_cappuccino.jpg",
       "price": 29.99,
-      "categoryTitle": "Milk"
+      "categoryTitle": "Smoothies"
     },
     {
       "id": 7,
@@ -61,7 +61,7 @@
       "subtitle": "Description for Product 3",
       "image": "https://upload.wikimedia.org/wikipedia/commons/c/cd/A_cappuccino.jpg",
       "price": 14.99,
-      "categoryTitle": "Cappuccino"
+      "categoryTitle": "Iced Coffee"
     },
     {
       "id": 8,
@@ -70,7 +70,7 @@
       "subtitle": "With Milk",
       "image": "https://c1.staticflickr.com/1/41/84641136_53bfef3acf_b.jpg",
       "price": 39.99,
-      "categoryTitle": "Machito"
+      "categoryTitle": "Iced Coffee"
     },
     {
       "id": 9,
@@ -79,7 +79,7 @@
       "subtitle": "Description for Product 5",
       "image": "https://c1.staticflickr.com/1/41/84641136_53bfef3acf_b.jpg",
       "price": 24.99,
-      "categoryTitle": "Machito"
+      "categoryTitle": "Smoothies"
     }
       ]
 }
