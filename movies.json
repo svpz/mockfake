@@ -1,0 +1,96 @@
+{
+  "movies": [
+    {
+      "id": "1",
+      "title": "The Matrix",
+      "description": "A computer hacker learns about the true nature of his reality and his role in the war against its controllers.",
+      "thumbnail": "https://example.com/thumbnails/the-matrix.jpg",
+      "genre": ["Action", "Sci-Fi"],
+      "tags": ["dystopian", "virtual reality", "hacker"],
+      "release_year": 1999,
+      "runtime": "2h 16m",
+      "director": "The Wachowskis",
+      "cast": [
+        {
+          "name": "Keanu Reeves",
+          "role": "Neo"
+        },
+        {
+          "name": "Laurence Fishburne",
+          "role": "Morpheus"
+        },
+        {
+          "name": "Carrie-Anne Moss",
+          "role": "Trinity"
+        }
+      ],
+      "language": "English",
+      "subtitles": ["English", "Spanish", "French"],
+      "stream_urls": {
+        "1080p": "https://example.com/stream/the-matrix/1080p",
+        "720p": "https://example.com/stream/the-matrix/720p",
+        "480p": "https://example.com/stream/the-matrix/480p"
+      },
+      "ratings": {
+        "imdb": 8.7,
+        "rottenTomatoes": 87
+      },
+      "availability": {
+        "is_streaming": true,
+        "is_downloadable": false,
+        "regions": ["US", "CA", "UK"]
+      },
+      "additional_info": {
+        "budget": "$63 million",
+        "box_office": "$465.3 million",
+        "awards": ["4 Academy Awards"]
+      }
+    },
+    {
+      "id": "2",
+      "title": "Inception",
+      "description": "A thief who enters the dreams of others to steal secrets must now plant an idea in someone's mind.",
+      "thumbnail": "https://example.com/thumbnails/inception.jpg",
+      "genre": ["Action", "Sci-Fi", "Thriller"],
+      "tags": ["mind-bending", "heist", "dreams"],
+      "release_year": 2010,
+      "runtime": "2h 28m",
+      "director": "Christopher Nolan",
+      "cast": [
+        {
+          "name": "Leonardo DiCaprio",
+          "role": "Cobb"
+        },
+        {
+          "name": "Joseph Gordon-Levitt",
+          "role": "Arthur"
+        },
+        {
+          "name": "Elliot Page",
+          "role": "Ariadne"
+        }
+      ],
+      "language": "English",
+      "subtitles": ["English", "German", "Japanese"],
+      "stream_urls": {
+        "1080p": "https://example.com/stream/inception/1080p",
+        "720p": "https://example.com/stream/inception/720p",
+        "480p": "https://example.com/stream/inception/480p"
+      },
+      "ratings": {
+        "imdb": 8.8,
+        "rottenTomatoes": 91
+      },
+      "availability": {
+        "is_streaming": true,
+        "is_downloadable": true,
+        "regions": ["US", "CA", "AU"]
+      },
+      "additional_info": {
+        "budget": "$160 million",
+        "box_office": "$836.8 million",
+        "awards": ["4 Academy Awards"]
+      }
+    }
+  ]
+}
