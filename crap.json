@@ -1,0 +1,513 @@
+{
+  "app_info": {
+    "title": "नेपाली फिटनेस ट्र्याकर",
+    "version": "1.0.0",
+    "last_updated": "2024-05-22",
+    "user_profile": {
+      "age": 22,
+      "height": "165 cm",
+      "weight": "85 kg",
+      "goal": "Lose fat, stay fit, and maintain a full, fresh face",
+      "dislikes": ["Brinjal", "Giraula", "Parwal"],
+      "work_schedule": "10:00 AM - 5:00 PM",
+      "profession": "Software engineer and student"
+    }
+  },
+  "daily_schedule": [
+    {
+      "time": "5:30-6:30 AM",
+      "activity": "Wake-up & Study",
+      "details": ["Lukewarm lemon water + 2 soaked almonds", "Quiet focused study session (45-60 min)"],
+      "key": "morning_study"
+    },
+    {
+      "time": "6:30-7:00 AM",
+      "activity": "Workout",
+      "details": ["Follow daily workout plan", "5 min face yoga afterward"],
+      "key": "workout"
+    },
+    {
+      "time": "7:00-8:00 AM",
+      "activity": "Freshen Up",
+      "details": ["Shower, light tasks, pack day items"],
+      "key": "freshen_up"
+    },
+    {
+      "time": "9:00 AM",
+      "activity": "Main Meal",
+      "details": ["Dal Bhat Tarkari - Complete meal"],
+      "key": "main_meal"
+    },
+    {
+      "time": "10:00 AM - 5:00 PM",
+      "activity": "Work Time",
+      "details": ["Software engineering work", "Stay hydrated", "Midday snack at 1:00 PM"],
+      "key": "work_time"
+    },
+    {
+      "time": "5:00-6:00 PM",
+      "activity": "Evening Snack",
+      "details": ["Green tea or milk + 2 dates/roasted nuts", "Light walk/stretch"],
+      "key": "evening_snack"
+    },
+    {
+      "time": "6:00-7:00 PM",
+      "activity": "Evening Study",
+      "details": ["Quiet review, online class, or project work"],
+      "key": "evening_study"
+    },
+    {
+      "time": "7:00-8:00 PM",
+      "activity": "Relaxation Time",
+      "details": ["Light chores, shower, reading", "No meals after 6 PM"],
+      "key": "relaxation"
+    },
+    {
+      "time": "9:30-10:30 PM",
+      "activity": "Sleep",
+      "details": ["No screens 1 hr before", "Ensure deep, restful sleep"],
+      "key": "sleep"
+    }
+  ],
+  "workouts": [
+    {
+      "day": 1,
+      "title": "Full Body Strength",
+      "description": "Build overall strength with bodyweight exercises",
+      "duration": "30 minutes",
+      "exercises": [
+        {
+          "name": "Squats",
+          "sets": "3x20",
+          "description": "Keep back straight, go down until thighs parallel to floor"
+        },
+        {
+          "name": "Push-ups",
+          "sets": "3x10-15",
+          "description": "Full range of motion, modify on knees if needed"
+        },
+        {
+          "name": "Glute bridges",
+          "sets": "3x15",
+          "description": "Squeeze glutes at the top, hold for 2 seconds"
+        },
+        {
+          "name": "Wall sit",
+          "sets": "3x1 min",
+          "description": "Back against wall, thighs parallel to floor"
+        },
+        {
+          "name": "Plank",
+          "sets": "3x30 sec",
+          "description": "Keep body straight from head to heels"
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "title": "Cardio + Core",
+      "description": "Heart rate up with core strengthening",
+      "duration": "25 minutes",
+      "exercises": [
+        {
+          "name": "Jog in place",
+          "sets": "3 min",
+          "description": "Light bounce, lift knees moderately high"
+        },
+        {
+          "name": "High knees",
+          "sets": "3x30 sec",
+          "description": "Bring knees up to waist level, pump arms"
+        },
+        {
+          "name": "Mountain climbers",
+          "sets": "3x15",
+          "description": "Plank position, alternate bringing knees to chest"
+        },
+        {
+          "name": "Bicycle crunch",
+          "sets": "3x20",
+          "description": "Lying on back, alternate elbow to opposite knee"
+        },
+        {
+          "name": "Side plank",
+          "sets": "30 sec each side",
+          "description": "Support body on forearm, keep hips up"
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "title": "Light Stretch + Walk",
+      "description": "Active recovery and flexibility",
+      "duration": "20-30 minutes",
+      "exercises": [
+        {
+          "name": "Full body stretching",
+          "sets": "10-15 min",
+          "description": "Focus on major muscle groups, hold each stretch 30 seconds"
+        },
+        {
+          "name": "Walking or light yoga",
+          "sets": "10-15 min",
+          "description": "Gentle movement, focus on breathing"
+        },
+        {
+          "name": "Deep breathing",
+          "sets": "5 min",
+          "description": "4-7-8 breathing technique for relaxation"
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "title": "Upper Body Strength",
+      "description": "Focus on arms, shoulders, and back",
+      "duration": "30 minutes",
+      "exercises": [
+        {
+          "name": "Incline push-ups",
+          "sets": "3x15",
+          "description": "Hands on elevated surface, easier than regular push-ups"
+        },
+        {
+          "name": "Shoulder taps",
+          "sets": "3x20",
+          "description": "Plank position, tap opposite shoulder alternating"
+        },
+        {
+          "name": "Superman hold",
+          "sets": "3x30 sec",
+          "description": "Lying face down, lift chest and legs simultaneously"
+        },
+        {
+          "name": "Leg raises",
+          "sets": "3x15",
+          "description": "Lying on back, lift straight legs to 90 degrees"
+        },
+        {
+          "name": "Wall hand press",
+          "sets": "3x30 sec",
+          "description": "Stand arm's length from wall, push against it"
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "title": "Cardio Burn + Core",
+      "description": "High intensity fat burning with core work",
+      "duration": "25 minutes",
+      "exercises": [
+        {
+          "name": "Jumping jacks",
+          "sets": "3x50",
+          "description": "Full range of motion, land softly"
+        },
+        {
+          "name": "Squat pulses",
+          "sets": "3x20",
+          "description": "Stay in squat position, small up-down movements"
+        },
+        {
+          "name": "Skater jumps",
+          "sets": "3x20",
+          "description": "Lateral jumps, land on one foot, swing arms"
+        },
+        {
+          "name": "Plank shoulder taps",
+          "sets": "3x20",
+          "description": "Plank position, tap shoulders while keeping hips stable"
+        }
+      ]
+    },
+    {
+      "day": 6,
+      "title": "Walk + Stretch + Face Yoga",
+      "description": "Recovery with extended face yoga session",
+      "duration": "30-40 minutes",
+      "exercises": [
+        {
+          "name": "Walking session",
+          "sets": "15-20 min",
+          "description": "Moderate pace, enjoy fresh air if possible"
+        },
+        {
+          "name": "Deep stretching routine",
+          "sets": "10-15 min",
+          "description": "Hold stretches longer, focus on tight areas"
+        },
+        {
+          "name": "Extended face yoga",
+          "sets": "10-15 min",
+          "description": "Complete face yoga routine with extra exercises"
+        }
+      ]
+    },
+    {
+      "day": 7,
+      "title": "Rest Day",
+      "description": "Complete recovery day",
+      "duration": "Rest",
+      "exercises": [
+        {
+          "name": "Complete rest",
+          "sets": "All day",
+          "description": "No structured exercise, focus on recovery"
+        },
+        {
+          "name": "Light activities only",
+          "sets": "As needed",
+          "description": "Gentle walking, light household chores"
+        },
+        {
+          "name": "Recovery focus",
+          "sets": "Ongoing",
+          "description": "Good nutrition, hydration, and sleep"
+        }
+      ]
+    }
+  ],
+  "meals": {
+    "main_meal": {
+      "time": "9:00 AM",
+      "title": "Dal Bhat Tarkari",
+      "description": "Traditional Nepali complete meal",
+      "items": [
+        {
+          "item": "Rice",
+          "quantity": "1 medium bowl",
+          "notes": "Source of carbohydrates for energy"
+        },
+        {
+          "item": "Dal (Lentils)",
+          "quantity": "1 bowl",
+          "notes": "Protein and fiber rich"
+        },
+        {
+          "item": "Mixed vegetables",
+          "quantity": "1 serving",
+          "notes": "Avoid brinjal, giraula, parwal as per preference"
+        },
+        {
+          "item": "Protein",
+          "quantity": "1 serving",
+          "notes": "Choose from: boiled egg, paneer, tofu, or chicken"
+        },
+        {
+          "item": "Salad",
+          "quantity": "1 small bowl",
+          "notes": "Cucumber, carrot, onion, tomato - fresh and raw"
+        },
+        {
+          "item": "Ghee",
+          "quantity": "1 tsp (optional)",
+          "notes": "Healthy fats, use in moderation"
+        }
+      ]
+    },
+    "midday_snack": {
+      "time": "1:00 PM",
+      "title": "Protein-rich Snack",
+      "description": "Energy boost during work hours",
+      "options": [
+        {
+          "item": "Boiled eggs",
+          "quantity": "2 eggs",
+          "benefits": "High protein, keeps you full"
+        },
+        {
+          "item": "Roasted chana",
+          "quantity": "1 small bowl",
+          "benefits": "Fiber and protein, crunchy satisfaction"
+        },
+        {
+          "item": "Fresh fruit",
+          "quantity": "1 medium fruit",
+          "benefits": "Natural sugars, vitamins, and minerals"
+        },
+        {
+          "item": "Milk or lassi",
+          "quantity": "1 glass",
+          "benefits": "Calcium and protein"
+        },
+        {
+          "item": "Boiled potato",
+          "quantity": "1 medium",
+          "benefits": "Complex carbs, potassium"
+        }
+      ],
+      "instructions": "Choose 1-2 options based on hunger and preference"
+    },
+    "evening_snack": {
+      "time": "5:00-6:00 PM",
+      "title": "Light Evening Snack",
+      "description": "Optional light snack before dinner cutoff",
+      "items": [
+        {
+          "item": "Green tea or milk",
+          "quantity": "1 cup",
+          "benefits": "Antioxidants (green tea) or protein (milk)"
+        },
+        {
+          "item": "Dates",
+          "quantity": "2 pieces",
+          "benefits": "Natural sweetness, energy, fiber"
+        },
+        {
+          "item": "Roasted nuts",
+          "quantity": "Small handful",
+          "benefits": "Healthy fats, protein, satisfying"
+        }
+      ]
+    }
+  },
+  "face_yoga": [
+    {
+      "name": "Cheek Lifter",
+      "duration": "1 min",
+      "description": "Smile, lift cheeks with fingers, hold 5 sec, release. Repeat.",
+      "benefits": "Tones cheek muscles, reduces sagging",
+      "steps": [
+        "Smile wide showing your teeth",
+        "Place fingers on cheeks and gently lift",
+        "Hold for 5 seconds",
+        "Release and repeat 8-10 times"
+      ]
+    },
+    {
+      "name": "Jawline Definer",
+      "duration": "1 min",
+      "description": "Tilt head back slightly, push jaw forward, hold 5 sec. Repeat.",
+      "benefits": "Strengthens jaw muscles, defines jawline",
+      "steps": [
+        "Tilt head back slightly",
+        "Push lower jaw forward",
+        "Feel stretch under chin",
+        "Hold for 5 seconds, repeat 10 times"
+      ]
+    },
+    {
+      "name": "Puff & Hold",
+      "duration": "1 min",
+      "description": "Puff air into cheeks, hold for 10 sec, switch sides. Repeat.",
+      "benefits": "Exercises cheek muscles, improves circulation",
+      "steps": [
+        "Take deep breath",
+        "Puff air into right cheek",
+        "Hold for 10 seconds",
+        "Switch to left cheek",
+        "Repeat 5 times each side"
+      ]
+    },
+    {
+      "name": "Lip Pulls",
+      "duration": "1 min",
+      "description": "Pull lower lip up, stretch neck muscles, hold 10 sec. Repeat.",
+      "benefits": "Tones neck and chin area, reduces double chin",
+      "steps": [
+        "Pull lower lip up as much as possible",
+        "Feel stretch in neck muscles",
+        "Hold for 10 seconds",
+        "Relax and repeat 6 times"
+      ]
+    },
+    {
+      "name": "Neck Massage",
+      "duration": "1 min",
+      "description": "Gently massage jaw and neck upward with both hands",
+      "benefits": "Improves blood circulation, relaxes muscles",
+      "steps": [
+        "Use both hands",
+        "Start from neck base",
+        "Massage upward to jawline",
+        "Use gentle circular motions",
+        "Continue for 1 minute"
+      ]
+    }
+  ],
+  "daily_reminders": [
+    {
+      "reminder": "Drink 3-3.5 liters water daily",
+      "importance": "high",
+      "tip": "Keep a water bottle nearby during work"
+    },
+    {
+      "reminder": "Avoid sugar drinks and heavy salt",
+      "importance": "high",
+      "tip": "Replace sugary drinks with lemon water or green tea"
+    },
+    {
+      "reminder": "Protein at every meal",
+      "importance": "high",
+      "tip": "Eggs, dal, paneer, chicken - include at least one"
+    },
+    {
+      "reminder": "No food after 6 PM",
+      "importance": "critical",
+      "tip": "This is key for fat loss - stick to fluids only after 6 PM"
+    },
+    {
+      "reminder": "Sleep well - no screens 1 hour before bed",
+      "importance": "high",
+      "tip": "Read a book or do light stretching instead"
+    },
+    {
+      "reminder": "Stay consistent, not perfect",
+      "importance": "medium",
+      "tip": "Progress takes time - celebrate small wins daily"
+    }
+  ],
+  "daily_tracker_tasks": [
+    {
+      "key": "workout_done",
+      "title": "Workout Completed",
+      "description": "Finished today's workout routine"
+    },
+    {
+      "key": "water_3l",
+      "title": "Drank 3L+ Water",
+      "description": "Met daily hydration goal"
+    },
+    {
+      "key": "no_junk",
+      "title": "No Junk/Sugar",
+      "description": "Avoided processed foods and added sugars"
+    },
+    {
+      "key": "face_yoga",
+      "title": "5 Min Face Yoga",
+      "description": "Completed face yoga routine"
+    },
+    {
+      "key": "sleep_7h",
+      "title": "Slept 7+ Hours",
+      "description": "Got adequate rest for recovery"
+    },
+    {
+      "key": "no_food_after_6",
+      "title": "No Food After 6 PM",
+      "description": "Followed evening fasting rule"
+    }
+  ],
+  "motivational_quotes": [
+    "तपाईंको शरीर तपाईंको मन्दिर हो - यसको हेरचाह गर्नुहोस्।",
+    "स्वास्थ्य नै सबैभन्दा ठूलो सम्पत्ति हो।",
+    "हरेक दिन एक नयाँ सुरुवात हो।",
+    "Progress, not perfection - हरेक कदम महत्वपूर्ण छ।",
+    "Consistency is the key to transformation.",
+    "Your future self will thank you for today's choices."
+  ],
+  "app_settings": {
+    "water_goal_liters": 3.0,
+    "water_increment_ml": 250,
+    "github_update_url": "https://raw.githubusercontent.com/svpz/mockfake/main/crap.json",
+    "theme_colors": {
+      "primary": "#22C55E",
+      "secondary": "#3B82F6",
+      "accent": "#EC4899",
+      "warning": "#F59E0B",
+      "background_start": "#0F172A",
+      "background_end": "#1E293B"
+    }
+  }
+}
