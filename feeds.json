@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "data": [
+    {
+      "title": "Flutter 3.0 Released",
+      "description": "Flutter 3.0 brings amazing new features including better performance and web support.",
+      "short_desc": "Flutter 3.0 brings new features.",
+      "image_url": "https://techvify.com/wp-content/uploads/2023/06/flutter-app-development.png",
+      "external_url": "https://flutter.dev/docs/whats-new"
+    },
+    {
+      "title": "Dart Null Safety Guide",
+      "description": "Understand how null safety in Dart works and how to migrate your project.",
+      "short_desc": "Learn Dart null safety.",
+      "image_url": "https://nagarjunacollege.edu.np/public/uploads/1605768.png",
+      "external_url": "https://dart.dev/null-safety"
+    },
+    {
+      "title": "Introducing Jetpack Compose",
+      "description": "Jetpack Compose simplifies UI development on Android using declarative programming.",
+      "short_desc": "Simplified UI in Android.",
+      "image_url": "https://nagarjunacollege.edu.np/public/uploads/1605768.png",
+      "external_url": "https://developer.android.com/jetpack/compose"
+    }
+  ]
+}
