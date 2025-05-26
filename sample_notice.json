@@ -1,0 +1,41 @@
+{
+  "success": true,
+  "data": [
+    {
+      "id": "1",
+      "title": "Exam Schedule Released",
+      "desc": "The final exam schedule for 2025 has been published.",
+      "date": "2025-05-25",
+      "priority": "high",
+      "link": "https://example.com/exam-schedule.pdf",
+      "link_type": "pdf"
+    },
+    {
+      "id": "2",
+      "title": "Maintenance Notice",
+      "desc": "The system will be down for maintenance on May 30th.",
+      "date": "2025-05-26",
+      "priority": "medium",
+      "link": "https://example.com/maintenance-details",
+      "link_type": "url"
+    },
+    {
+      "id": "3",
+      "title": "New Course Enrollment",
+      "desc": "Enrollment for the new AI course is now open.",
+      "date": "2025-05-27",
+      "priority": "normal",
+      "link": "https://external-site.com/enroll-now",
+      "link_type": "external"
+    },
+    {
+      "id": "4",
+      "title": "Library Timings Updated",
+      "desc": "Library will now be open from 8am to 8pm on weekdays.",
+      "date": "2025-05-28",
+      "priority": "low",
+      "link": null,
+      "link_type": null
+    }
+  ]
+}
