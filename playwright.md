@@ -1494,3 +1494,11 @@ test('checkout with valid credit card @e2e @payment', async ({ page }) => {
   await expect(page.getByText('Order successful!')).toBeVisible();
 });
 ```
+
+
+## Some Websites to practice testing
+https://the-internet.herokuapp.com/
+https://books.toscrape.com/
+https://uitestingplayground.com/
+https://www.demoblaze.com/
+https://parabank.parasoft.com/
