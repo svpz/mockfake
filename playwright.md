@@ -1497,6 +1497,7 @@ test('checkout with valid credit card @e2e @payment', async ({ page }) => {
 
 
 ## Some Websites to practice testing
+https://www.saucedemo.com/
 https://the-internet.herokuapp.com/
 https://books.toscrape.com/
 https://uitestingplayground.com/
